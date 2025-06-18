@@ -20,23 +20,6 @@ This is a Tableau project built using the popular [Superstore Sales Dataset](htt
   - Conditional Formatting Highlight Table
   - Drill-Down Hierarchy: Year → Quarter → Month
 
----
-
-## Visual Examples
-
-| KPI Tiles | Top N Chart | Highlight Table |
-|-----------|-------------|-----------------|
-| ![KPI](KPI Tiles.png) | ![TopN](images/top-n-chart.png) | ![Highlight](images/highlight-table.png) |
-
----
-
-##  Files
-
-| File | Description |
-|------|-------------|
-| `superstore-dashboard.twb` | Tableau workbook file |
-| `images/` | Screenshots of all charts |
-| `README.md` | This documentation |
 
 ---
 
@@ -56,6 +39,6 @@ This is a Tableau project built using the popular [Superstore Sales Dataset](htt
 ## 🔗 Tableau Public Link
 
 You can view the live dashboard here:  
-[View on Tableau Public]([https://public.tableau.com/app/profile/deeksha.lingaraju/vizzes])
+[View on Tableau Public](https://public.tableau.com/app/profile/deeksha.lingaraju/vizzes)
 
 
